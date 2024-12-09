@@ -1,0 +1,23 @@
+MSH|^~\&|LAB|QTE||22365|20040103035850||ORU^R01|20040103323307950000|P|2.3|||||||
+PID|1|212079|G9893412||FUIMAN^ANDREW||19760705|M||||||||||NONE|204486323||||||||||||
+ORC|RE|NONE|G9893412||CM|||||||^^^||||||||
+OBR|1|NONE|G9893412|45791783^HIV-1 AB W/CONFIRM.,NY^^45791783^HIV-1 AB W/CONFIRM.,NY|||20031231000000|||||||20031231202300||^^^|||||TBR^Quest Diagnostics^One Malcolm Avenue^Teterboro^NJ^07608|20040101052800|||F|||||||||||||||||||
+OBX|1|TX|52209^HIV-1 AB,EIA^^52209^HIV-1 AB,EIA^||Nonreactive,||Nonreactive|N|||F|||20040101052800|TBR^^L|||
+NTE|1||                                                                      |
+NTE|2||         No HIV-1 antibodies detected.|
+NTE|3||         A nonreactive test result does not exclude the possibility|
+NTE|4||         of HIV-1 infection, since seroconversion is variable.   |
+NTE|5||         If clinically indicated, repeat testing of a new sample(s) in|
+NTE|6||         three months is suggested.|
+NTE|7||     |
+NTE|8||         Government regulations require the assurance of patient|
+NTE|9||         confidentiality.  New York State Public Health Law,|
+NTE|10||         including Article 27F, details for providers their|
+NTE|11||         responsibility and authority regarding partner/contact|
+NTE|12||         notification.|
+NTE|13||                                                                    |
+NTE|14||                                                            |
+NTE|15||                                                                      |
+OBX|2|ST|45178201^HIV-1 AB,WB^^45178201^HIV-1 AB,WB^||DNR|||N|||X|||20040101052800|TBR^^L|||
+OBX|3|ST|45521712^VIRAL BANDS OBSERVED^^45521712^VIRAL BANDS OBSERVED^||DNR|||N|||X|||20040101052800|TBR^^L|||
+OBX|4|ST|45221713^INTERPRETATION^^45221713^INTERPRETATION^||DNR|||N|||X|||20040101052800|TBR^^L|||
